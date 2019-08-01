@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-submit {
-  background: #4F1339;
+  background: #BC3259;
   border: 0px;
   display: inline-block;
   font-size: 16px;	
@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   margin-top: 25px;
-  border: 2px solid #4F1339;
+  border: 2px solid #BC3259;
 }
 
 .btn-submit:hover {
@@ -460,3 +460,4 @@ a, a:hover {
 }
 
 /****/
+
